@@ -103,6 +103,7 @@ azure-cloud-security-review-lab/
 ## Project Workflow Diagram
 
 This diagram shows the simulated workflow used in this cloud security review lab, from reviewing the cloud environment to identifying risks, documenting recommendations, and linking cloud security findings to SOC and Cyber Defence work.
+![Cloud Security Review Workflow](cloud-security-review-workflow.png)
 
 ---
 
